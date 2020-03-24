@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marvel API</string>
+    <string name="char_name"><![CDATA[<Nome do personagem>]]></string>
+</resources>
